@@ -1,0 +1,11 @@
+E:\ProgrammingWork\Лабораторные Сухого\Laba-Var10\Laba-Var10\bin\Debug\netcoreapp3.0\Laba-Var10.exe
+E:\ProgrammingWork\Лабораторные Сухого\Laba-Var10\Laba-Var10\bin\Debug\netcoreapp3.0\Laba-Var10.deps.json
+E:\ProgrammingWork\Лабораторные Сухого\Laba-Var10\Laba-Var10\bin\Debug\netcoreapp3.0\Laba-Var10.runtimeconfig.json
+E:\ProgrammingWork\Лабораторные Сухого\Laba-Var10\Laba-Var10\bin\Debug\netcoreapp3.0\Laba-Var10.runtimeconfig.dev.json
+E:\ProgrammingWork\Лабораторные Сухого\Laba-Var10\Laba-Var10\bin\Debug\netcoreapp3.0\Laba-Var10.dll
+E:\ProgrammingWork\Лабораторные Сухого\Laba-Var10\Laba-Var10\bin\Debug\netcoreapp3.0\Laba-Var10.pdb
+E:\ProgrammingWork\Лабораторные Сухого\Laba-Var10\Laba-Var10\obj\Debug\netcoreapp3.0\Laba-Var10.csprojAssemblyReference.cache
+E:\ProgrammingWork\Лабораторные Сухого\Laba-Var10\Laba-Var10\obj\Debug\netcoreapp3.0\Laba-Var10.AssemblyInfoInputs.cache
+E:\ProgrammingWork\Лабораторные Сухого\Laba-Var10\Laba-Var10\obj\Debug\netcoreapp3.0\Laba-Var10.AssemblyInfo.cs
+E:\ProgrammingWork\Лабораторные Сухого\Laba-Var10\Laba-Var10\obj\Debug\netcoreapp3.0\Laba-Var10.dll
+E:\ProgrammingWork\Лабораторные Сухого\Laba-Var10\Laba-Var10\obj\Debug\netcoreapp3.0\Laba-Var10.pdb
